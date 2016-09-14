@@ -4,7 +4,7 @@
 #
 Name     : gtk-engines
 Version  : 2.20.2
-Release  : 1
+Release  : 2
 URL      : https://download.gnome.org/core/3.20/3.20.2/sources/gtk-engines-2.20.2.tar.gz
 Source0  : https://download.gnome.org/core/3.20/3.20.2/sources/gtk-engines-2.20.2.tar.gz
 Summary  : Default GTK+ theme engines
